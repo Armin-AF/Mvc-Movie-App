@@ -21,7 +21,7 @@ MvcMovie is a web application built with ASP.NET Core MVC. It allows users to ma
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/MvcMovie.git`
+1. Clone the repository: `git clone https://github.com/Armin-AF/MvcMovie.git`
 2. Navigate to the project directory: `cd MvcMovie`
 3. Build the project: `dotnet build`
 4. Run the application: `dotnet run`
